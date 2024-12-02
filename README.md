@@ -24,4 +24,5 @@ Treatment: type, side effects
 
 Insurance: status 
 
+<img width="679" alt="Screenshot 2024-12-02 at 4 51 53 PM" src="https://github.com/user-attachments/assets/b3dc9e09-5d77-42a1-ace7-7e1c9089a666">
 
