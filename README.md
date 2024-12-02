@@ -16,7 +16,8 @@ Along the same idea, we added the identifier "dateAdministered" to Patient_Treat
 
 Lastly, we added the following attributes to enhance the accuracy of the data model further
 
-Billing: Due Date 
+Billing: Due Date
+
 
 Patients: email, address, allergies
 
@@ -25,4 +26,11 @@ Treatment: type, side effects
 Insurance: status 
 
 <img width="679" alt="Screenshot 2024-12-02 at 4 51 53 PM" src="https://github.com/user-attachments/assets/b3dc9e09-5d77-42a1-ace7-7e1c9089a666">
+
+# Data Dictionary 
+<img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
+<img width="720" alt="Screenshot 2024-12-02 at 4 59 02 PM" src="https://github.com/user-attachments/assets/ad9f13d4-20d0-45e5-84c6-f1dcfd15f686">
+<img width="719" alt="Screenshot 2024-12-02 at 5 00 58 PM" src="https://github.com/user-attachments/assets/4f443a14-7f5b-45ab-a500-d88a5535a0bf">
+
+
 
