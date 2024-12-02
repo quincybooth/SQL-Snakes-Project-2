@@ -15,9 +15,13 @@ Additionally, we made some adjustments to the attributes in our pre-existing ent
 Along the same idea, we added the identifier "dateAdministered" to Patient_Treatment because a patient can receive the same treatment on multiple instances, like chemotherapy for example. 
 
 Lastly, we added the following attributes to enhance the accuracy of the data model further
-Billing --> Due Date 
-Patients --> email, address, allergies
-Treatment --> type, side effects
-Insurance --> status 
+
+Billing: Due Date 
+
+Patients: email, address, allergies
+
+Treatment: type, side effects
+
+Insurance: status 
 
 
