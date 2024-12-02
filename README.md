@@ -30,7 +30,8 @@ Insurance: status
 # Data Dictionary 
 <img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
 <img width="720" alt="Screenshot 2024-12-02 at 4 59 02 PM" src="https://github.com/user-attachments/assets/ad9f13d4-20d0-45e5-84c6-f1dcfd15f686">
-<img width="719" alt="Screenshot 2024-12-02 at 5 00 58 PM" src="https://github.com/user-attachments/assets/4f443a14-7f5b-45ab-a500-d88a5535a0bf">
+<img width="718" alt="Screenshot 2024-12-02 at 5 01 35 PM" src="https://github.com/user-attachments/assets/38b95ebb-c4cd-486e-b90f-815aa96a6f56">
+
 
 
 
