@@ -56,7 +56,7 @@ Managerial Relevance: This query provides relevance by distinguishing the health
 
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
-Managerial Relevance: The GetTotalTreatmentCost query makes it easy to calculate a patient’s total treatment costs, helping ensure billing is clear and accurate. It’s a simple way for administrators to track expenses and make better financial decisions.
+Managerial Relevance: This query makes it easy to calculate a patient’s total treatment costs, helping ensure billing is clear and accurate. It’s a simple way for administrators to track expenses and make better financial decisions. By using joins, it connects relevant treatment data while maintaining data integrity, making it a valuable tool for financial management in healthcare.
 
 5. Query 5:This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
 
