@@ -63,6 +63,8 @@ Managerial Relevance: This query makes it easy to calculate a patient’s total 
 <img width="883" alt="Screenshot 2024-12-03 at 3 14 47 PM" src="https://github.com/user-attachments/assets/e812802e-1d2a-42cb-b351-bd8f163254bb">
 <img width="1047" alt="Screenshot 2024-12-03 at 3 15 13 PM" src="https://github.com/user-attachments/assets/423b52bb-d71b-4538-9128-c73b13c3ecb1">
 
+Managerial Relevance: This query creates a detailed view of each patient’s billing information, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider. By combining data from multiple tables with joins, it consolidates relevant details into one place, making it easier to identify accounts with high billing amounts. This view improves financial oversight, supports better patient communication, and simplifies billing processes by focusing on actionable insights.
+
 
 # Data Dictionary 
 <img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
