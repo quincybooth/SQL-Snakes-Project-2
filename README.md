@@ -30,6 +30,7 @@ Insurance: status
 # Queries
 
 Query 1: This query retrieves detailed information about patients and their associated insurance coverage, including the coverage period, by joining the Patient, Patient_Insurance, and Insurance tables.
+![image](https://github.com/user-attachments/assets/281d94bd-7450-4ff4-9411-49739283a5e1)
 
 Relevance: The query enables hospital managers to monitor patient insurance coverage status effectively, ensuring compliance with billing and eligibility requirements for medical services.
 
