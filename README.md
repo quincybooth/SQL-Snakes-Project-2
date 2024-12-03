@@ -50,6 +50,8 @@ Relevance: The query enhances hospital management by providing a streamlined, co
 <img width="716" alt="Screenshot 2024-12-02 at 11 42 49 PM" src="https://github.com/user-attachments/assets/df7cc355-ede7-4a69-9674-4d45fe4b3882">
 <img width="715" alt="Screenshot 2024-12-02 at 11 43 38 PM" src="https://github.com/user-attachments/assets/7a897b44-0da7-4a3e-b04f-8cf59796e509">
 <img width="715" alt="Screenshot 2024-12-02 at 11 44 12 PM" src="https://github.com/user-attachments/assets/39be5437-0326-409e-abcb-852de480a824">
+<img width="714" alt="Screenshot 2024-12-02 at 11 52 40 PM" src="https://github.com/user-attachments/assets/db0d0263-55bb-43df-bf15-8c4234039fab">
+<img width="740" alt="Screenshot 2024-12-02 at 11 55 41 PM" src="https://github.com/user-attachments/assets/f3d3068d-9c8c-4b0b-b247-ecd26cdf3ad6">
 
 
 
