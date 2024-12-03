@@ -56,21 +56,21 @@ Relevance: The query enhances hospital management by providing a streamlined, co
 
 
 # Visualizations
-                                                 Visualization 1
+                                              Visualization 1
 <img width="1058" alt="Screenshot 2024-12-02 at 6 26 47 PM" src="https://github.com/user-attachments/assets/b355a62f-560f-4500-8f5b-bb0b01266579">
 Our first visualization aims to attack the question of which treatments carry the most financial burden. Visualizing treatment costs can help track where healthcare expenditures are going, allowing organizations to manage their budgets better and optimize spending. In addition, by visualizing the distribution of treatment costs, patterns can emerge, such as higher-than-expected costs in certain areas, which could signal inefficiencies, overuse of services, or potential fraud.
 
-                                                 Visualization 2
+                                             Visualization 2
 <img width="1066" alt="Screenshot 2024-12-02 at 6 27 03 PM" src="https://github.com/user-attachments/assets/2da2e7ec-26fe-4a31-b76e-0aad499289da">
 Our second visualization helps in understanding how different age groups and genders are distributed within a patient population. This is critical for health planning, as different age groups and genders often have different healthcare needs. Understanding the age-gender distribution allows healthcare providers to tailor services and resources, ensuring they meet the needs of various patient segments (e.g., pediatric care, women's health, geriatric care). It could reveal health trends or disparities in treatment needs between genders or age groups, which could help in identifying areas for intervention or health awareness campaigns.
 
-                                                Visualization 3
+                                             Visualization 3
 
 <img width="637" alt="Screenshot 2024-12-02 at 6 26 54 PM" src="https://github.com/user-attachments/assets/6d1ee86b-f78f-4d0f-a7be-745679422293">
 
 Our third visualization aids in visualizing the number of patients per insurance provider. This could prove to be helpful as it allows for easy identification of which providers are most commonly used by patients. This can be valuable for understanding market share, assessing the strength of partnerships, and allocating resources more effectively. Health organizations can identify if certain insurance providers have a larger patient base, which might require more attention, specialized services, or dedicated teams.
 
-                                                        Dashboard 
+                                              Dashboard 
 <img width="1005" alt="Screenshot 2024-12-02 at 6 27 53 PM" src="https://github.com/user-attachments/assets/0d09f236-ef26-48db-8e22-746c220b0b97">
 
 
