@@ -40,8 +40,9 @@ Query 2: The query creates a unified view of appointments, patients, and healthc
 
 Relevance: The query enhances hospital management by providing a streamlined, comprehensive view of appointments, enabling efficient scheduling, coordination, and decision-making.
 
-Query 3: This query 
+Query 3: This query helps find which doctors perform the most treatments over a certain period of time. We use a stored procedure in order to control data exposure, keeping our data secure.
 ![image](https://github.com/user-attachments/assets/15c2d604-7aae-42e0-b73e-42f156317e84)
+Relevance: This query provides relevance by distinguishing the healthcare providers who have the highest number of treatments completed. We think that the higher amount of treatments one has provider, the more experienced they are, and therefore they are better at administration. 
 
 
 Query 4:This query creates a GetTotalTreatmentCost function calculates the total cost of all treatments administered to a specific patient, using their patient ID as input
