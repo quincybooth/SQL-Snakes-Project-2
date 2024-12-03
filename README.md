@@ -52,13 +52,13 @@ Managerial Relevance: This query creates a unified view of appointments by joini
 Managerial Relevance: This query provides relevance by distinguishing the healthcare providers who have the highest number of treatments completed. We think that the higher amount of treatments one has provider, the more experienced they are, and therefore they are better at administration. Using a stored procedure helps control data exposure, ensuring sensitive information remains secure while allowing specific analysis. This has managerial relevance because it supports better allocation of the healthcare providers by highlighting experienced providers. 
 
 
-4. Query 4:This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input.
+4. Query 4: This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input.
 
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
 Managerial Relevance: This query makes it easy to calculate a patient’s total treatment costs, helping ensure billing is clear and accurate. It’s a simple way for administrators to track expenses and make better financial decisions. By using joins, it connects relevant treatment data while maintaining data integrity, making it a valuable tool for financial management in healthcare.
 
-5. Query 5:This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
+5. Query 5: This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
 
 <img width="883" alt="Screenshot 2024-12-03 at 3 14 47 PM" src="https://github.com/user-attachments/assets/e812802e-1d2a-42cb-b351-bd8f163254bb">
 <img width="1047" alt="Screenshot 2024-12-03 at 3 15 13 PM" src="https://github.com/user-attachments/assets/423b52bb-d71b-4538-9128-c73b13c3ecb1">
