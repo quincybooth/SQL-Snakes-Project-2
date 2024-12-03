@@ -32,33 +32,32 @@ Insurance: status
 
 # Queries
 
-Query 1: This query retrieves detailed information about patients and their associated insurance coverage, including the coverage period, by joining the Patient, Patient_Insurance, and Insurance tables.
-Managerial Relevance: The query enables hospital managers to monitor patient insurance coverage status effectively, ensuring compliance with billing and eligibility requirements for medical services. This query is important for tracking patient insurance details by linking patients to their insurance plans and coverage periods. By using inner joins, we ensure that only records with matching patient and insurance information are included, which helps maintain accurate and relevant data. This improves efficiency, reduces billing errors, and supports a better experience for both patients and staff.
-
+1. Query 1: This query retrieves detailed information about patients and their associated insurance coverage, including the coverage period, by joining the Patient, Patient_Insurance, and Insurance tables.
 
 ![image](https://github.com/user-attachments/assets/281d94bd-7450-4ff4-9411-49739283a5e1)
 
+Managerial Relevance: The query enables hospital managers to monitor patient insurance coverage status effectively, ensuring compliance with billing and eligibility requirements for medical services. This query is important for tracking patient insurance details by linking patients to their insurance plans and coverage periods. By using inner joins, we ensure that only records with matching patient and insurance information are included, which helps maintain accurate and relevant data. This improves efficiency, reduces billing errors, and supports a better experience for both patients and staff.
 
-Query 2: The query creates a unified view of appointments, patients, and healthcare providers to simplify access to frequently needed data.
+2. Query 2: The query creates a unified view of appointments, patients, and healthcare providers to simplify access to frequently needed data.
 
 ![image](https://github.com/user-attachments/assets/197919fa-2f97-413d-897c-31548216657c)
 
 Managerial Relevance: The query enhances hospital management by providing a streamlined, comprehensive view of appointments, enabling efficient scheduling, coordination, and decision-making.
 
-Query 3: This query helps find which doctors perform the most treatments over a certain period of time. We use a stored procedure in order to control data exposure, keeping our data secure.
+3. Query 3: This query helps find which doctors perform the most treatments over a certain period of time. We use a stored procedure in order to control data exposure, keeping our data secure.
 
 ![image](https://github.com/user-attachments/assets/15c2d604-7aae-42e0-b73e-42f156317e84)
 
 Managerial Relevance: This query provides relevance by distinguishing the healthcare providers who have the highest number of treatments completed. We think that the higher amount of treatments one has provider, the more experienced they are, and therefore they are better at administration. 
 
 
-Query 4:This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input.
+4. Query 4:This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input.
 
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
 Managerial Relevance: The GetTotalTreatmentCost query makes it easy to calculate a patient’s total treatment costs, helping ensure billing is clear and accurate. It’s a simple way for administrators to track expenses and make better financial decisions.
 
-Query 5:This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
+5. Query 5:This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
 
 <img width="883" alt="Screenshot 2024-12-03 at 3 14 47 PM" src="https://github.com/user-attachments/assets/e812802e-1d2a-42cb-b351-bd8f163254bb">
 <img width="1047" alt="Screenshot 2024-12-03 at 3 15 13 PM" src="https://github.com/user-attachments/assets/423b52bb-d71b-4538-9128-c73b13c3ecb1">
