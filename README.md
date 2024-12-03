@@ -27,6 +27,13 @@ Insurance: status
 
 <img width="679" alt="Screenshot 2024-12-02 at 4 51 53 PM" src="https://github.com/user-attachments/assets/b3dc9e09-5d77-42a1-ace7-7e1c9089a666">
 
+# Queries
+
+Query 1: This query retrieves detailed information about patients and their associated insurance coverage, including the coverage period, by joining the Patient, Patient_Insurance, and Insurance tables.
+
+Relevance: The query enables hospital managers to monitor patient insurance coverage status effectively, ensuring compliance with billing and eligibility requirements for medical services.
+
+
 # Data Dictionary 
 <img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
 <img width="720" alt="Screenshot 2024-12-02 at 4 59 02 PM" src="https://github.com/user-attachments/assets/ad9f13d4-20d0-45e5-84c6-f1dcfd15f686">
