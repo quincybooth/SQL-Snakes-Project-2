@@ -49,6 +49,10 @@ Query 4:This query creates a GetTotalTreatmentCost function calculates the total
 
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
+Query 5:This query creates a view, PatientBillingSummary, that provides a comprehensive summary of each patient's billing details, including their name, email, last appointment date, treatments received, total billing amount, and assigned provider, and then retrieves records where the total billing amount exceeds $500.
+
+<img width="883" alt="Screenshot 2024-12-03 at 3 14 47 PM" src="https://github.com/user-attachments/assets/e812802e-1d2a-42cb-b351-bd8f163254bb">
+<img width="1047" alt="Screenshot 2024-12-03 at 3 15 13 PM" src="https://github.com/user-attachments/assets/423b52bb-d71b-4538-9128-c73b13c3ecb1">
 
 
 # Data Dictionary 
