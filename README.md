@@ -36,6 +36,7 @@ Relevance: The query enables hospital managers to monitor patient insurance cove
 
 
 Query 2: The query creates a unified view of appointments, patients, and healthcare providers to simplify access to frequently needed data.
+![image](https://github.com/user-attachments/assets/197919fa-2f97-413d-897c-31548216657c)
 
 Relevance: The query enhances hospital management by providing a streamlined, comprehensive view of appointments, enabling efficient scheduling, coordination, and decision-making.
 
