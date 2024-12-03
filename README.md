@@ -40,6 +40,10 @@ Query 2: The query creates a unified view of appointments, patients, and healthc
 
 Relevance: The query enhances hospital management by providing a streamlined, comprehensive view of appointments, enabling efficient scheduling, coordination, and decision-making.
 
+Query 3: This query 
+![image](https://github.com/user-attachments/assets/15c2d604-7aae-42e0-b73e-42f156317e84)
+
+
 # Data Dictionary 
 <img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
 <img width="720" alt="Screenshot 2024-12-02 at 4 59 02 PM" src="https://github.com/user-attachments/assets/ad9f13d4-20d0-45e5-84c6-f1dcfd15f686">
