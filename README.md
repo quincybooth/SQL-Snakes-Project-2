@@ -42,7 +42,8 @@ Managerial Relevance: The query enables hospital managers to monitor patient ins
 
 ![image](https://github.com/user-attachments/assets/197919fa-2f97-413d-897c-31548216657c)
 
-Managerial Relevance: The query enhances hospital management by providing a streamlined, comprehensive view of appointments, enabling efficient scheduling, coordination, and decision-making.
+Managerial Relevance: This query creates a unified view of appointments by joining patient, appointment, and healthcare provider information. By using a view, we can simplify access to key details like appointment status, patient contact info, and provider roles while limiting direct access to sensitive underlying data. When creating this query, we wanted to use a view to ensure that we followed HIPPA guidelines and only allowed people with certain authority to access this data. This approach enhances hospital management by streamlining scheduling and coordination while maintaining great data security.
+
 
 3. Query 3: This query helps find which doctors perform the most treatments over a certain period of time. We use a stored procedure in order to control data exposure, keeping our data secure.
 
