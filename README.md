@@ -42,7 +42,33 @@ Relevance: The query enhances hospital management by providing a streamlined, co
 <img width="721" alt="Screenshot 2024-12-02 at 4 57 57 PM" src="https://github.com/user-attachments/assets/68868091-0547-474d-b3a1-fdbac2a23e48">
 <img width="720" alt="Screenshot 2024-12-02 at 4 59 02 PM" src="https://github.com/user-attachments/assets/ad9f13d4-20d0-45e5-84c6-f1dcfd15f686">
 <img width="718" alt="Screenshot 2024-12-02 at 5 01 35 PM" src="https://github.com/user-attachments/assets/38b95ebb-c4cd-486e-b90f-815aa96a6f56">
+<img width="722" alt="Screenshot 2024-12-02 at 11 32 23 PM" src="https://github.com/user-attachments/assets/f8229f93-1677-4707-bbca-c64e8e86ff07">
+<img width="721" alt="Screenshot 2024-12-02 at 11 33 18 PM" src="https://github.com/user-attachments/assets/f65951a0-3be9-4f88-8350-9f2553eb6ce2">
+<img width="721" alt="Screenshot 2024-12-02 at 11 34 12 PM" src="https://github.com/user-attachments/assets/d9be64df-4634-4346-9d93-714412a14245">
+<img width="713" alt="Screenshot 2024-12-02 at 11 36 52 PM" src="https://github.com/user-attachments/assets/b094ba98-b698-4848-bf9d-2f1bf20b0b13">
+<img width="717" alt="Screenshot 2024-12-02 at 11 37 22 PM" src="https://github.com/user-attachments/assets/32c73c42-1368-4b9a-b646-6ea3517cf18b">
+<img width="716" alt="Screenshot 2024-12-02 at 11 42 49 PM" src="https://github.com/user-attachments/assets/df7cc355-ede7-4a69-9674-4d45fe4b3882">
+<img width="715" alt="Screenshot 2024-12-02 at 11 43 38 PM" src="https://github.com/user-attachments/assets/7a897b44-0da7-4a3e-b04f-8cf59796e509">
+<img width="715" alt="Screenshot 2024-12-02 at 11 44 12 PM" src="https://github.com/user-attachments/assets/39be5437-0326-409e-abcb-852de480a824">
 
 
+
+# Visualizations
+                                                        Visualization 1
+<img width="1058" alt="Screenshot 2024-12-02 at 6 26 47 PM" src="https://github.com/user-attachments/assets/b355a62f-560f-4500-8f5b-bb0b01266579">
+Our first visualization aims to attack the question of which treatments carry the most financial burden. Visualizing treatment costs can help track where healthcare expenditures are going, allowing organizations to manage their budgets better and optimize spending. In addition, by visualizing the distribution of treatment costs, patterns can emerge, such as higher-than-expected costs in certain areas, which could signal inefficiencies, overuse of services, or potential fraud.
+
+                                                        Visualization 2
+<img width="1066" alt="Screenshot 2024-12-02 at 6 27 03 PM" src="https://github.com/user-attachments/assets/2da2e7ec-26fe-4a31-b76e-0aad499289da">
+Our second visualization helps in understanding how different age groups and genders are distributed within a patient population. This is critical for health planning, as different age groups and genders often have different healthcare needs. Understanding the age-gender distribution allows healthcare providers to tailor services and resources, ensuring they meet the needs of various patient segments (e.g., pediatric care, women's health, geriatric care). It could reveal health trends or disparities in treatment needs between genders or age groups, which could help in identifying areas for intervention or health awareness campaigns.
+
+                                                        Visualization 3
+
+<img width="637" alt="Screenshot 2024-12-02 at 6 26 54 PM" src="https://github.com/user-attachments/assets/6d1ee86b-f78f-4d0f-a7be-745679422293">
+
+Our third visualization aids in visualizing the number of patients per insurance provider. This could prove to be helpful as it allows for easy identification of which providers are most commonly used by patients. This can be valuable for understanding market share, assessing the strength of partnerships, and allocating resources more effectively. Health organizations can identify if certain insurance providers have a larger patient base, which might require more attention, specialized services, or dedicated teams.
+
+                                                        Dashboard 
+<img width="1005" alt="Screenshot 2024-12-02 at 6 27 53 PM" src="https://github.com/user-attachments/assets/0d09f236-ef26-48db-8e22-746c220b0b97">
 
 
