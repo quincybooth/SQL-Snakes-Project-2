@@ -45,6 +45,8 @@ Query 3: This query
 
 
 Query 4:This query creates a GetTotalTreatmentCost function calculates the total cost of all treatments administered to a specific patient, using their patient ID as input
+
+
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
 
