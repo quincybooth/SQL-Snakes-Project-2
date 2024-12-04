@@ -11,7 +11,7 @@ Our project focuses on designing a database for a healthcare center, like a hosp
 We want this system to store data and help better run hospitals on a daily basis. For example, it should help the hospital monitor patient insurance coverage, analyze provider performance, and create clear summaries of patient billing. Our goal is to simplify the daily workload in a hospital, improve decision-making, and ultimately create a system that benefits both healthcare providers and their patients. By integrating all these elements, we aim to develop a database that supports the fast-paced environment of a hospital while ensuring high-quality care and resource management.
 
 # Additions to the Data Model 
-The main component we added to the data model was the formation of the entity "Appointments". This entity will allow the database to track scheduled interactions between patients and healthcare providers. Because a patient can have many appointments, but an appointment belongs to one patient, we established a one-to-many relationship between the two. The same goes for the HealthCareProvider entity. Lastly, an appointment may consist of many treatments and treatment can occur in many appointments, thus, the two have a many-to-many relationship. 
+The main component we added to the data model was the formation of the entity "Appointment". This entity will allow the database to track scheduled interactions between patients and healthcare providers. Because a patient can have many appointments, but an appointment belongs to one patient, we established a one-to-many relationship between the two. The same goes for the HealthCareProvider entity. Lastly, an appointment may consist of many treatments and treatment can occur in many appointments, thus, the two have a many-to-many relationship. 
 
 Additionally, we made some adjustments to the attributes in our pre-existing entities. We added the identifier "startDate" to Patient_Provider and Patient_Insurance due to the fact that a patient may see a provider multiple times, and a patient may decide to leave an insurance plan but can return at a later date. 
 
@@ -20,7 +20,6 @@ Along the same idea, we added the identifier "dateAdministered" to Patient_Treat
 Lastly, we added the following attributes to enhance the accuracy of the data model further
 
 Billing: Due Date
-
 
 Patients: email, address, allergies
 
