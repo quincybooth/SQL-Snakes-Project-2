@@ -42,6 +42,8 @@ Managerial Relevance: The query enables hospital managers to monitor patient ins
 2. Query 2: The query creates a unified view of appointments, patients, and healthcare providers to simplify access to frequently needed data.
 
 ![image](https://github.com/user-attachments/assets/197919fa-2f97-413d-897c-31548216657c)
+<img width="529" alt="Screenshot 2024-12-03 at 10 23 34 PM" src="https://github.com/user-attachments/assets/7366f76c-9188-4acc-b3bb-1ee3c51c5bf0">
+
 
 Managerial Relevance: This query creates a unified view of appointments by joining patient, appointment, and healthcare provider information. By using a view, we can simplify access to key details like appointment status, patient contact info, and provider roles while limiting direct access to sensitive underlying data. When creating this query, we wanted to use a view to ensure that we followed HIPPA guidelines and only allowed people with certain authority to access this data. This approach enhances hospital management by streamlining scheduling and coordination while maintaining great data security.
 
