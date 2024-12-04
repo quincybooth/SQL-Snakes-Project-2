@@ -57,7 +57,7 @@ Managerial Relevance: This query creates a unified view of appointments by joini
 Managerial Relevance: This query provides relevance by distinguishing the healthcare providers who have the highest number of treatments completed. We think that the higher amount of treatments one has provider, the more experienced they are, and therefore they are better at administration. Using a stored procedure helps control data exposure, ensuring sensitive information remains secure while allowing specific analysis. This has managerial relevance because it supports better allocation of the healthcare providers by highlighting experienced providers. 
 
 
-4. Query 4: This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input.
+4. Query 4: This query creates a GetTotalTreatmentCost function which calculates the total cost of all treatments administered to a specific patient, using their patient ID as input. A function was chosen to ensure reusability and consistency across queries.
 
 <img width="503" alt="Screenshot 2024-12-03 at 3 11 11 PM" src="https://github.com/user-attachments/assets/3ced1416-5c1b-49cb-86f4-f789eac40cf7">
 
