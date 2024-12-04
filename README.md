@@ -102,4 +102,6 @@ Our third visualization aids in visualizing the number of patients per insurance
 <img width="1005" alt="Screenshot 2024-12-02 at 6 27 53 PM" src="https://github.com/user-attachments/assets/0d09f236-ef26-48db-8e22-746c220b0b97">
 
 # Database Information
+Name of databse: cs_qb22563
 
+Stored procedure: CALL TP_Q1(); -- Executes the first query stored procedure CALL TP_Q2(); -- Executes the second query stored procedure CALL TP_Q3(); -- Executes the second query stored procedure CALL TP_QN(); -- Executes the (N) query stored procedure
