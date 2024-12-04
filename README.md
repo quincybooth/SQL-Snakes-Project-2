@@ -51,6 +51,8 @@ Managerial Relevance: This query creates a unified view of appointments by joini
 3. Query 3: This query helps find which doctors perform the most treatments over a certain period of time. We use a stored procedure in order to control data exposure, keeping our data secure.
 
 ![image](https://github.com/user-attachments/assets/15c2d604-7aae-42e0-b73e-42f156317e84)
+<img width="727" alt="Screenshot 2024-12-03 at 10 30 01 PM" src="https://github.com/user-attachments/assets/374b73f7-92b1-496e-bb2e-7153ea69d76e">
+
 
 Managerial Relevance: This query provides relevance by distinguishing the healthcare providers who have the highest number of treatments completed. We think that the higher amount of treatments one has provider, the more experienced they are, and therefore they are better at administration. Using a stored procedure helps control data exposure, ensuring sensitive information remains secure while allowing specific analysis. This has managerial relevance because it supports better allocation of the healthcare providers by highlighting experienced providers. 
 
